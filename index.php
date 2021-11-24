@@ -19,7 +19,7 @@ and open the template in the editor.
         <link rel="icon" href="imagens/favicon.ico"/>
     </head>
     <body>
-        <h1>Cadastro de Pessoas com POO</h1>
+        <h1>Cadastro de Pessoas com POO - Git</h1>
         <table><!--Cria Tabela -->
             <tr> <!--Cria linha -->
                 <td> <!--Cria Coluna -->
